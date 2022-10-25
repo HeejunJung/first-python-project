@@ -1,10 +1,4 @@
 #문자의 표현
-from gettext import find
-from multiprocessing.pool import ApplyResult
-from tkinter import E
-from turtle import right
-from winreg import HKEY_LOCAL_MACHINE
-
 print('Hello') #작은 따옴표
 print("Hello") #큰 따옴표
 print("Hello 'hello'") #'출력하기
