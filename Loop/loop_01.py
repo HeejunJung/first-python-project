@@ -1,0 +1,6 @@
+print('Hello world 0')
+print('Hello world 9')
+print('Hello world 18')
+print('Hello world 27')
+print('Hello world 36')
+print('Hello world 45')

@@ -1,0 +1,6 @@
+puts('Hello world 0')
+puts('Hello world 9')
+puts('Hello world 18')
+puts('Hello world 27')
+puts('Hello world 36')
+puts('Hello world 45')
